@@ -9,25 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+You can find the most current version of my resume [here](https://github.com/katyabbott/katyabbott.github.io/raw/master/assets/KatyAbbott_resume_web.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in geophysics, applied math, UC Berkeley, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: Helen Fellow 
+  * American Museum of Natural History
+  * Using computational science techniques to study mesoscale ocean eddies
   
-Skills
+<!---Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams ---!>
