@@ -6,8 +6,6 @@ tags:
   - BridgeUP-STEM
   - sea-level-anomaly
 ---
-Sea level anomaly near Bermuda
-======
 
 ![image](https://github.com/katyabbott/katyabbott.github.io/blob/master/assets/Bermuda_SLA_2002-2004.gif?raw=true)
 
