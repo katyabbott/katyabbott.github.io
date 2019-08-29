@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can find the most current version of my resume [here](https://github.com/katyabbott/katyabbott.github.io/raw/master/assets/KatyAbbott_resume_web.pdf).
-<a href="username.github.io/_pdfs/KatyAbbott_resume_web.pdf" target="_blank">here.</a>
+<a href="katyabbott.github.io/_pdfs/KatyAbbott_resume_web.pdf" target="_blank">here.</a>
 
 Education
 ======
