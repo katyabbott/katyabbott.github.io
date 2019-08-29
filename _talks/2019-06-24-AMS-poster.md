@@ -8,4 +8,4 @@ date: 2019-06-24
 location: "Portland, ME"
 ---
 
-![image](https://raw.githubusercontent.com/katyabbott/katyabbott.github.io/master/assets/AMS_poster.png)
+![image](https://github.com/katyabbott/katyabbott.github.io/blob/master/assets/AMS_Poster.png?raw=true)
