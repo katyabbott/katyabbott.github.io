@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the most current version of my resume <a href="katyabbott.github.io/_pdfs/KatyAbbott_resume_web.pdf" target="_blank">here.</a>
+You can find the most current version of my resume <a href="katyabbott.github.io/_pdfs/KatyAbbott_CV_web.pdf" target="_blank">here.</a>
 
 Education
 ======
@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* 2019-present: GIS Technician | Big Bend National Park
+* 2019-present: GIS Technician &#124; Big Bend National Park
   * Visualizing park resources such as nighttime radiance and light pollution
   * Mapping invasive species in the field
 
-* 2018-2019: Helen Fellow | American Museum of Natural History
+* 2018-2019: Helen Fellow &#124; American Museum of Natural History
   * Used computational science techniques to study mesoscale ocean eddies
   * Mentored high school girls in computational oceanography
 
-* 2017-2018: Watershed Stewards Program member | North Coast Regional Water Quality Control Board
+* 2017-2018: Watershed Stewards Program member &#124; North Coast Regional Water Quality Control Board
   * Measured water quality and quantity through Northern Californian streams and rivers
   * Developed Random Forest tool to predict native vegetation in Mark West Creek watershed
  
