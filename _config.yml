@@ -13,7 +13,7 @@ name                     : &name "Katy Abbott"
 description              : &description "Computational earth scientist"
 url                      : https://katyabbott.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "katyeabbott/katyabbott.github.io"
+repository               : "katyabbott/katyabbott.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Katy Abbott"
   avatar           : "IMG_8212.png"
-  bio              : "Helen Fellow at AMNH"
-  location         : "New York, NY"
+  bio              : "GIS Technician at Big Bend National Park"
+  location         : "Big Bend, TX"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "katyeabbott"
+  github           : "katyabbott"
   google_plus      :
   keybase          :
   instagram        :
