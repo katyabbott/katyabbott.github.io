@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the most current version of my resume <a href="katyabbott.github.io/_pdfs/KatyAbbott_CV_web.pdf" target="_blank">here.</a>
+You can find the most current version of my CV <a href="katyabbott.github.io/files/KatyAbbott_CV_web.pdf" target="_blank">here.</a>
 
 Education
 ======
