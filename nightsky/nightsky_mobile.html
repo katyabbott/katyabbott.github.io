@@ -530,7 +530,8 @@
             expandTooltip: "Alternative text for sky quality map",
             expanded: false,
             view: view,
-            content: document.getElementById("alt-text-map")
+            content: document.getElementById("alt-text-map"),
+            mode: "floating"
           });
 
       const layerList = new LayerList({
@@ -577,8 +578,6 @@
         layerList.operationalItems.reverse();
       }, 1200);
 
-      view.ui.add(alttextExpand, "bottom-right");
-
       setTimeout(function () {
         view.ui.move("zoom", "top-left");
         view.ui.add(listExpand, "top-left");
@@ -588,8 +587,12 @@
       var mq = window.matchMedia("(max-width: 600px)");
       
       if (mq.matches) {
+        view.ui.add(alttextExpand, "top-right");
         }
       else {
+
+          view.ui.add(alttextExpand, "bottom-right");
+
           var cedarExpand = new Expand({
           expandIconClass: "esri-icon-chart",
           expandTooltip: "Night-sky graph",
