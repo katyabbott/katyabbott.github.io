@@ -40,7 +40,7 @@
       font-family: FrutigerRoman;
     }
 
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 600px), (max-height: 600px) {
       #timeSlider {
         position: relative;
         margin-left: auto;
@@ -62,7 +62,7 @@
         font-family: FrutigerRoman;
       }
 
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 600px), (max-height: 600px) {
       #cedarPanel {
         display: none;
         height: 30vh;
@@ -584,7 +584,7 @@
         view.ui.add(instructionsExpand, "top-left");
       }, 1210);
 
-      var mq = window.matchMedia("(max-width: 600px)");
+      var mq = window.matchMedia("screen and (max-width: 600px), (max-height: 600px)");
       
       if (mq.matches) {
         view.ui.add(alttextExpand, "top-right");
