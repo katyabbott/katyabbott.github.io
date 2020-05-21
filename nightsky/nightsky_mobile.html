@@ -56,7 +56,7 @@
 
     #cedarPanel {
         height: 30vh;
-        width: 70vw;
+        width: 85vw;
         background-color: #FFFFFF;
         opacity: .9;
         font-family: FrutigerRoman;
@@ -65,11 +65,6 @@
     @media screen and (max-width: 600px), (max-height: 600px) {
       #cedarPanel {
         display: none;
-        height: 30vh;
-        width: 70vw;
-        background-color: #FFFFFF;
-        opacity: .9;
-        font-family: FrutigerRoman;
       }
     } 
 
@@ -132,10 +127,10 @@
     }
 
     #instructions {
-      width: 75vw;
+      width: 50vw;
       height: 40vh;
       padding: 15px;
-      font-size: 15px;
+      font-size: 1em;
       /* font-family: FrutigerRoman; */
     }
 
@@ -150,7 +145,7 @@
     }
 
     #instructions .content {
-      font-size: 15px !important;
+      font-size: 1em !important;
       margin-top: 10px;
       height: 33vh !important;
       overflow-y: auto;
@@ -159,10 +154,20 @@
     }
 
     #alt-text-map {
-      width: 35vh;
-      height: 40vh;
+      width: 20vw;
+      height: 32vw;
       padding: 15px;
       font-size: 15px;
+    }
+
+  @media screen and (max-width: 600px), (max-height: 600px) {
+      #alt-text-map {
+        width: 60vw;
+        height: 32vw;
+        padding: 15px;
+        padding-bottom: 35vw;
+        font-size: 15px;
+      }
     }
 
     h2.alt-text-title {
@@ -172,14 +177,14 @@
       margin-top: 0px;
       text-align: center !important;
       z-index: 999;
-      font-size: 16px;
+      font-size: 1em;
       background-color: white;
     }
 
     #alt-text-map .content {
-      font-size: 15px !important;
+      font-size: .8em !important;
       margin-top: 5px;
-      height: 35vh !important;
+      height: 28vw !important;
       overflow-y: auto;
       padding: 5px;
       padding-right: 15px;
@@ -521,7 +526,7 @@
             expanded: false,
             view: view,
             content: document.getElementById("instructions"),
-            group: "top-left",
+            group: "collapse",
             mode: "floating"
           });
 
@@ -530,6 +535,7 @@
             expandTooltip: "Alternative text for sky quality map",
             expanded: false,
             view: view,
+            group: "collapse",
             content: document.getElementById("alt-text-map"),
             mode: "floating"
           });
@@ -570,7 +576,7 @@
         view: view,
         expanded: true,
         content: layerList,
-        group: "top-left",
+        group: "collapse",
         mode: "floating"
       });
 
@@ -597,6 +603,7 @@
           expandIconClass: "esri-icon-chart",
           expandTooltip: "Night-sky graph",
           expanded: false,
+          group: "collapse",
           view: view,
           content: document.getElementById("cedarPanel"),
           mode: "floating"
