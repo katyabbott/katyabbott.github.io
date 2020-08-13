@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Katy Abbott"
 title_separator          : "-"
 name                     : &name "Katy Abbott"
-description              : &description "Computational earth scientist"
+description              : &description "Computational oceanographer"
 url                      : https://katyabbott.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katyabbott/katyabbott.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Katy Abbott"
   avatar           : "IMG_8212.png"
-  bio              : "GIS Technician at Big Bend National Park"
-  location         : "Big Bend, TX"
+  bio              : "PhD student in MIT-WHOI Joint Program in Oceanography"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "katyabbott@berkeley.edu"
+  email            : "keabbott@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
