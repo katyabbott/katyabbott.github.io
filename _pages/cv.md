@@ -13,11 +13,12 @@ You can find the most current version of my CV <a href="https://katyabbott.githu
 
 Education
 ======
-* B.S. in geophysics, applied math, UC Berkeley, 2017
+* Ph.D. in physical oceanography, MIT-WHOI Joint Program, 2020 - present
+* B.S. in geophysics, applied math, UC Berkeley, 2013 - 2017
 
 Work experience
 ======
-* 2019-present: GIS Technician &#124; Big Bend National Park
+* 2019-2020: GIS Technician &#124; Big Bend National Park
   * Visualizing park resources such as nighttime radiance and light pollution
   * Mapping invasive species in the field
 
