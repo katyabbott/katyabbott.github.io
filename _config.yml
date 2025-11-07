@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Katy Abbott"
-  avatar           : "IMG_8212.png"
-  bio              : "PhD student in MIT-WHOI Joint Program in Oceanography"
-  location         : "Cambridge, MA"
+  avatar           : "Abbott_Katy_SamplingfromCTDduringSMODE_JingHe.jpg"
+  bio              : "PhD candidate, MIT-WHOI Joint Program in Oceanography"
+  location         : "Woods Hole, MA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=X6-gcQUAAAAJ&hl=en"
   email            : "keabbott@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0002-5504-6730"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "katyeabbott"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
