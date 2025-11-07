@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Talks and Posters"
-    url: /talks/    
+  # - title: "Talks and Posters"
+  #   url: /talks/    
         
   - title: "Posts"
     url: /year-archive/
