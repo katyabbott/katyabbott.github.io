@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in physical oceanography in the MIT-WHOI Joint Program in Oceanography. I'm interested in studying biophysical interactions with a variety of tools, including observations, satellite data and models. 
+I am currently a PhD candidate in physical oceanography in the MIT-WHOI Joint Program in Oceanography. I'm interested in studying biophysical interactions with a variety of tools, including observations, satellite data and models. 
 <br/> <br/>
 Previously, I worked as a GIS technician at Big Bend National Park in Texas, where I made maps for the park. During my time there, I developed a [set of tools](https://bigbendnp.github.io/nightskyquality/) for mapping night-sky quality, and produced a data visualization of night skies in the Big Bend region, which you can view [here](https://bigbendnp.github.io/nightskyquality/pages/nightskyviz.html). 
 <br/> <br/>
