@@ -17,3 +17,4 @@ I was also a Helen Fellow at the American Museum of Natural History, working on 
 In my free time, I bake bread, brew my own kombucha, and go on long outdoor adventures. 
 
 ![image](https://raw.githubusercontent.com/katyabbott/katyabbott.github.io/refs/heads/master/images/PXL_20230318_181705424_Original.jpg)
+*Ski touring on Mount Moosilauke in New Hampshire*
