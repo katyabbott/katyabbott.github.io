@@ -14,4 +14,6 @@ Previously, I worked as a GIS technician at Big Bend National Park in Texas, whe
 <br/> <br/>
 I was also a Helen Fellow at the American Museum of Natural History, working on a project to study how mesoscale eddies modulate sea-surface carbon in the Sargasso Sea. Before that, I served as an AmeriCorps member at the North Coast Regional Water Quality Control Board in Santa Rosa, California, which sparked my interest in computational science. I graduated from UC Berkeley in 2017 with degrees in geophysics and applied mathematics. At UC Berkeley, I worked on research projects to model submarine volcanic flow fronts and study the relationship between water supply and wildfire in Yosemite. 
 <br/> <br/>
-In my free time, I bake bread, brew my own kombucha, and go for long hikes in national parks. 
+In my free time, I bake bread, brew my own kombucha, and go on long outdoor adventures. 
+
+![image](https://raw.githubusercontent.com/katyabbott/katyabbott.github.io/refs/heads/master/images/PXL_20230318_181705424_Original.jpg)
