@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Katy Abbott"
 title_separator          : "-"
 name                     : &name "Katy Abbott"
-description              : &description "Computational oceanographer"
+description              : &description "Physical oceanographer"
 url                      : https://katyabbott.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katyabbott/katyabbott.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Katy Abbott"
   avatar           : "Abbott_Katy_SamplingfromCTDduringSMODE_JingHe.jpg"
-  bio              : "PhD candidate, MIT-WHOI Joint Program in Oceanography"
+  bio              : "Postdoctoral fellow, Woods Hole Oceanographic Institution"
   location         : "Woods Hole, MA"
   employer         :
   pubmed           : 
